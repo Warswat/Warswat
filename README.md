@@ -1,7 +1,8 @@
 **Владимир Деревягин**
-Разработчик на python
 ---
-Мои навыки
+Разработчик на python
+
+## Мои навыки
 
 <!--
 **Warswat/Warswat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
