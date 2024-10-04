@@ -9,7 +9,10 @@ SQL. [Командный проект по курсу «Профессионал
 А также. [Docker](https://github.com/Warswat/DockerPractice), [DockerCompose](https://github.com/Warswat/DockerCompose), [Flask](https://github.com/Warswat/Flask), [Asyncio](https://github.com/Warswat/asyncio)  
 
 # Сертификаты Нетологии
-
+Python. https://github.com/Warswat/Warswat/blob/main/PD.pdf
+Django. https://github.com/Warswat/Warswat/blob/main/django.pdf
+SQL. https://github.com/Warswat/Warswat/blob/main/ORM.pdf
+Python в веб-разработке. https://github.com/Warswat/Warswat/blob/main/web.pdf
 <!--
 **Warswat/Warswat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
