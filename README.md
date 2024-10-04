@@ -2,8 +2,8 @@
 ---
 Разработчик на python
 
-## Мои навыки
-
+# Мои навыки
+Python.[Репозиторий с дипломной работой](https://github.com/Warswat/final_diplom)
 <!--
 **Warswat/Warswat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
